@@ -9,6 +9,7 @@ Usage:
     python openai_sketchpad.py --question "What is the capital of France?"
 """
 
+
 def main():
     parser = argparse.ArgumentParser(
         description=(
